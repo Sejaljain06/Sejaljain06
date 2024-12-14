@@ -12,7 +12,7 @@
 
 <br />
 
-<h3>I am <a href="https://www.linkedin.com/in/sejaljaincs/">Sejal</a> a Software Engineer, a Technical Writer, a Full Stack Developer, who loves designing and creating and exploring new stuff.</h3>                                                                                            
+<h3>I am <a href="https://www.linkedin.com/in/sejaljaincs/">Sejal</a> a Software Engineer, a Technical Writer, a Full Stack Developer, who loves designing, creating and exploring new stuff.</h3>                                                                                            
 <br>                                                                          
                                                                            
 🔭 Currently learning Everything, Grinding LeetCode, Exploring Cool Stuff.
