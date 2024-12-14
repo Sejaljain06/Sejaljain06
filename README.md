@@ -26,7 +26,7 @@
 | [Best Practices for Target Tracking in Spark AR Studio](https://medium.com/cometheartbeat/best-practices-for-target-tracking-in-spark-ar-studio-43992bd07e6a) | Medium |
 | [Keeping Up With the AR Library in Spark AR Studio](https://medium.com/cometheartbeat/keeping-up-with-the-ar-library-in-spark-ar-studio-d89380eedbd) | Medium |                                                            
  </br>
- 🏅 Earned Silver badge & 4 star at <a href="https://www.hackerrank.com/profile/imsejaljain"><b>HackerRank</b> </a>in JAVA programming.
+ 🏅 Earned Silver badge & 4 star at <a href="https://www.hackerrank.com/profile/imsejaljain"><b>HackerRank</b> </a>in JAVA programming and Problem Solving.
  <br>
  <br>
 <p align="left"> 
